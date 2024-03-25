@@ -1,0 +1,16 @@
+http://webapp.computing.clemson.edu/~rapaint/4620/query1.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query2.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query3.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query4.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query5.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query6.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query7.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query8.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query1p.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query2p.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query3p.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query4p.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query5p.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query6p.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query7p.php
+http://webapp.computing.clemson.edu/~rapaint/4620/query8p.php
